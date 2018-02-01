@@ -1,4 +1,4 @@
-# Three-Finger-Swipe-Razer-Blade-14
+# Three Finger Swipe On Razer Blade 14 (2014 Model)
 How to obtain 3 finger swipe (mac like gestures) to change desktops.
 
 ### Download Newest Drivers from Synaptics:
